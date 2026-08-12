@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu Matcha Latte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #7fbf7f;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: #4a7c59;
+        }
+        .image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        img {
+            max-width: 300px;
+            border-radius: 10px;
+        }
+        footer {}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Matcha Latte</h1>
+        <p>Thức uống xanh mát từ Nhật Bản</p>
+    </header>
+
+    <main>
+        <h2>Giới thiệu</h2>
+        <p>Matcha Latte là sự kết hợp giữa bột trà xanh matcha và sữa tươi, tạo nên hương vị thanh mát, béo ngậy và giàu chất chống oxy hóa.</p>
+
+        <div class="image">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Matcha_Latte.jpg" alt="Ly Matcha Latte">
+        </div>
+
+        <h2>Lợi ích</h2>
+        <ul>
+            <li>Giúp tỉnh táo và tập trung.</li>
+            <li>Chứa nhiều chất chống oxy hóa tốt cho sức khỏe.</li>
+            <li>Hương vị thơm ngon, dễ uống.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>© 2026 - Trang web giới thiệu Matcha Latte</p>
+    </footer>
+</body>
+</html>
